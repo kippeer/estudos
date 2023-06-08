@@ -1,0 +1,18 @@
+body{
+    font-size: 40px;
+    margin: 20%;
+}
+
+ul,ol{
+    padding: 0;
+}
+
+li{
+    margin-left: 60px;
+}
+
+.tag {
+    border: solid blue 4px;
+    
+    margin: 0;
+}
